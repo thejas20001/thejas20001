@@ -2,6 +2,7 @@
 <h3 align="center">An Enthusiastic Electronic Engineer and Developer From India</h3>
 <hr />
 
+ <img src="https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannou">
 
 Here are some ideas to get you started:
 
